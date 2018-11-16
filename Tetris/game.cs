@@ -15,11 +15,12 @@ namespace Tetris
     {                
         public int x = 0;
         public int y = 0;
-
+        public bool check;
         public int currentCase = 0;
         public Tiles currentTile = null;
         public Tiles nextTile = null;
         public string tileCorrente = "";
+        public int timeSet = 200;
 
         private static System.Timers.Timer aTimer;        
 
@@ -32,7 +33,7 @@ namespace Tetris
         public void SetTimer()
         {            
             // Create a timer with a two second interval.
-            aTimer = new System.Timers.Timer(500);
+            aTimer = new System.Timers.Timer(timeSet);
             // Hook up the Elapsed event for the timer.             
             aTimer.Elapsed += OnTimedEvent;
             aTimer.AutoReset = true;
@@ -53,19 +54,37 @@ namespace Tetris
                     currentCase = 1;                    
                     break;
                 case 1:
-                    if (y >= 17)
+                    
+
+                    //Logica del gioco da sistemare
+                    //1) Controlla se la matrice è già piena prima di inserire
+                    //2) Inserisci blocco 
+                    //2.5) Incrementa y
+                    //3) Controlla se la prossima posizione si può utilizzare
+                    //3) Si --> 4 No --> 5
+                    //4) Inserisci blocco più giù
+                    //5) y = 0; --> 2
+
+                    if(campoGioco4.check(x, y, tileCorrente) == true)
                     {
-                        campoGioco4.swithcState();
-                        currentCase = 0;
-                        y = 0;
+                        if (y == 0)
+                        {
+                            aTimer.Dispose();
+                            MessageBox.Show("Game Over");
+                        }
+                        else
+                        {
+                            campoGioco4.swithcState();
+                            currentCase = 0;
+                            y = 0;
+                        }
                     }
                     else
                     {
                         campoGioco4.clean();
                         campoGioco4.istance(x, y, tileCorrente);
                         y++;
-                    }
-                    
+                    }                    
                     break;                
             } 
 
@@ -144,7 +163,7 @@ namespace Tetris
             } 
         */
 
-        }
+            }
 
             public void InitializeComponent()
         {
