@@ -92,12 +92,15 @@ namespace Tetris
             {
                 for (int xx = 0; xx <= 3; xx++)
                 {
-                    if (tile[indexTile] == '1' && matrice[x+xx,y+yy].Name != "2")
+                    try
                     {
-                        matrice[x + xx, y + yy].BackColor = System.Drawing.Color.Red;
-                        matrice[x + xx, y + yy].Name = "1";
+                        if (tile[indexTile] == '1' && matrice[x + xx, y + yy].Name != "2")
+                        {
+                            matrice[x + xx, y + yy].BackColor = System.Drawing.Color.Red;
+                            matrice[x + xx, y + yy].Name = "1";
+                        }                       
                     }
-                   
+                    catch { }
                     indexTile++;
                 }         
             }            

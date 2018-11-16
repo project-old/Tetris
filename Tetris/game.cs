@@ -13,14 +13,14 @@ namespace Tetris
 {    
     public partial class game : Form
     {                
-        public int x = 0;
+        public int x = 5;
         public int y = 0;
         public bool check;
         public int currentCase = 0;
         public Tiles currentTile = null;
         public Tiles nextTile = null;
         public string tileCorrente = "";
-        public int timeSet = 200;
+        public int timeSet = 500;
 
         private static System.Timers.Timer aTimer;        
 
@@ -50,7 +50,7 @@ namespace Tetris
                 case 0:                    
                     Tiles currentTile = new Tiles();
                     tileCorrente = currentTile.getStringa();                    
-                    campoGioco4.istance(0,0,tileCorrente);
+                    campoGioco4.istance(x,y,tileCorrente);
                     currentCase = 1;                    
                     break;
                 case 1:
@@ -76,7 +76,8 @@ namespace Tetris
                         {
                             campoGioco4.swithcState();
                             currentCase = 0;
-                            y = 0;
+                            y = -2;
+                            x = 3;
                         }
                     }
                     else
@@ -232,6 +233,7 @@ namespace Tetris
             this.Controls.Add(this.campoGioco5);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.campoGioco4);
+            this.KeyPreview = true;
             this.Name = "game";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.game_KeyDown);            
             this.ResumeLayout(false);
@@ -240,11 +242,15 @@ namespace Tetris
         }        
 
         private void game_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.KeyCode == Keys.Enter)
+        {            
+            if(e.KeyCode == Keys.D)
             {
-                MessageBox.Show("Enter key pressed");
+                x = x + 1;
             }
-        }
+            else if (e.KeyCode == Keys.A)
+            {
+                x = x - 1;
+            }
+        }        
     }
 }
