@@ -58,6 +58,7 @@ namespace Tetris
                 }
             }
         }
+
         public bool check(int x,int y,string tile)
         {
             int indexTile = 0;
@@ -85,6 +86,36 @@ namespace Tetris
             }
             return verifica;
         }
+
+        public bool checkSide(int x, int y, string tile)
+        {
+            int indexTile = 0;
+            bool verifica = false;
+            for (int yy = 0; yy <= 3; yy++)
+            {
+                for (int xx = 0; xx <= 3; xx++)
+                {
+                    if (tile[indexTile] == '1')
+                    {
+                        try
+                        {
+                            //qui c'è il problema
+                            if (matrice[x + 1, y].Name == "2" && verifica == false || matrice[x - 1, y].Name == "2")
+                            {
+                                verifica = true;
+                            }
+                        }
+                        catch
+                        {
+                            verifica = true;
+                        }
+                    }
+                    indexTile++;
+                }
+            }
+            return verifica;
+        }
+
         public void istance(int x, int y,string tile)
         {
             int indexTile = 0;       

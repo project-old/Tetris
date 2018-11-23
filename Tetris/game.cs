@@ -12,20 +12,22 @@ using System.Timers;
 namespace Tetris
 {    
     public partial class game : Form
-    {                
-        public int x = 5;
+    {
+        public int width = 11;
+        public int x = 3;
         public int y = 0;
         public bool check;
         public int currentCase = 0;
         public Tiles currentTile = null;
         public Tiles nextTile = null;
         public string tileCorrente = "";
-        public int timeSet = 500;
+        public int timeSet = 1;
+        public int keepTimer = 0;
 
         private static System.Timers.Timer aTimer;        
 
         public game()
-        {            
+        {                        
             InitializeComponent();
             SetTimer();            
         }
@@ -42,20 +44,23 @@ namespace Tetris
 
         public void OnTimedEvent(Object source, ElapsedEventArgs e)
         {
+            keepTimer += 30;
             //fulcore del gioco
            // string tileCorrente = "";
 
-            switch (currentCase)
+            if(keepTimer >= 500)
             {
-                case 0:                    
-                    Tiles currentTile = new Tiles();
-                    tileCorrente = currentTile.getStringa();                    
-                    campoGioco4.istance(x,y,tileCorrente);
-                    currentCase = 1;                    
-                    break;
-                case 1:
+                keepTimer = 0;            
+                switch (currentCase)
+                {
+                    case 0:                    
+                        Tiles currentTile = new Tiles();
+                        tileCorrente = currentTile.getStringa();                    
+                        campoGioco4.istance(x,y,tileCorrente);
+                        currentCase = 1;                    
+                        break;
+                    case 1:
                     
-
                     //Logica del gioco da sistemare
                     //1) Controlla se la matrice è già piena prima di inserire
                     //2) Inserisci blocco 
@@ -76,7 +81,7 @@ namespace Tetris
                         {
                             campoGioco4.swithcState();
                             currentCase = 0;
-                            y = -2;
+                            y = 0;
                             x = 3;
                         }
                     }
@@ -87,86 +92,34 @@ namespace Tetris
                         y++;
                     }                    
                     break;                
-            } 
+                }
+            }
+        }
 
-
-
-            /*
-            switch (currentCase)
+        private void game_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.D)
             {
-                case 0:
-                    if (nextTile == null)
-                    {
-                        nextTile = new Tiles();
-
-                    }
-
-                    if (currentTile == null)
-                    {
-                        nextTile = new Tiles();
-                    }
-                    currentCase = 1;
-                    
-                    break;
-                case 1:
-                    case
-
-
-
-                    /*switch(Convert.ToInt32(currentTile))
-                    {
-                        case 0:
-                            campoGioco4.matrice[x, y + 1].Name = "1";
-                            campoGioco4.matrice[x+1, y + 1].Name = "1";
-                            campoGioco4.clean();
-                            campoGioco4.refresh(x, y+1);
-                            campoGioco4.refresh(x+1, y+1);
-                            campoGioco4.refresh(x, y);
-                            campoGioco4.refresh(x+1, y);
-                            break;
-                    }
-                    if(y == 17)
-                    {
-                        campoGioco4.matrice[x, y - 1].Name = "2";
-                        campoGioco4.matrice[x+1, y - 1].Name = "2";
-                        campoGioco4.matrice[x+1, y].Name = "2";
-                        campoGioco4.matrice[x, y].Name = "2";
-                        currentCase = 2;
-                    }
-                    if (y < 17)
-                    {
-                        campoGioco4.matrice[x, y + 1].Name = "1";
-                        campoGioco4.matrice[x + 1, y + 1].Name = "1";
-                        campoGioco4.clean();
-                        campoGioco4.refresh(x, y + 1);
-                        campoGioco4.refresh(x + 1, y + 1);
-                        campoGioco4.refresh(x, y);
-                        campoGioco4.refresh(x + 1, y);
-                    }
- 
-                  /*  if (y == 18 && campoGioco4.check())
-                    {
-                        campoGioco4.matrice[x, y-1].Name = "2";
-                        currentCase = 2;                        
-                    }
-                    campoGioco4.clean();
-                    campoGioco4.refresh(x, y);
-                    
-                    y++;
-                        break;
-                case 2:
-                        x+=2;
-                    y = 0;
-                        currentTile = nextTile;
-                        nextTile = new Tiles();
-                    currentCase = 1;
-                break;
-            } 
-        */
-
+                if(x != width-1 && !campoGioco4.checkSide(x, y, tileCorrente))
+                {
+                    x = x + 1;
+                }                
+            }
+            else if (e.KeyCode == Keys.A)
+            {
+                if (x != 0 && !campoGioco4.checkSide(x, y, tileCorrente))
+                {
+                    x = x - 1;
+                }                    
+            }
+            else if (e.KeyCode == Keys.W)
+            {
+                
             }
 
-            public void InitializeComponent()
+        }
+
+        public void InitializeComponent()
         {
             this.button3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -241,16 +194,6 @@ namespace Tetris
 
         }        
 
-        private void game_KeyDown(object sender, KeyEventArgs e)
-        {            
-            if(e.KeyCode == Keys.D)
-            {
-                x = x + 1;
-            }
-            else if (e.KeyCode == Keys.A)
-            {
-                x = x - 1;
-            }
-        }        
+             
     }
 }
