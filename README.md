@@ -6,3 +6,7 @@ and it has a multiplayer level where you can join the WLAN and try to beat your 
 Just clone this repository in your folder and click start. That's the trick
 
 ## The code
+
+## Authors
+
+Don't follow your dreams, follow me on instagram https://www.instagram.com/sebo_the_tramp/?hl=en and not Leo
