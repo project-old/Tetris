@@ -41,3 +41,178 @@ C:\SCSV\Scuola\2018-2019\Tecnologie\Tetris\Tetris\bin\Debug\Tetris.pdb
 C:\SCSV\Scuola\2018-2019\Tecnologie\Tetris\Tetris\obj\Debug\Tetris.campoGioco.resources
 C:\SCSV\Scuola\2018-2019\Tecnologie\Tetris\Tetris\obj\Debug\Tetris.Square.resources
 C:\SCSV\Scuola\2018-2019\Tecnologie\Tetris\Tetris\obj\Debug\Tetris.nextBlock.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\bin\Debug\Tetris.exe
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.campoGioco.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.CreateGame.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.nextBlock.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.Square.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.StartGame.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.game.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.SelectMode.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.exe
+C:\Users\Leonardo Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.pdb
+Z:\Documenti\Tetris-master\Tetris\bin\Debug\Tetris.exe.config
+Z:\Documenti\Tetris-master\Tetris\bin\Debug\Tetris.exe
+Z:\Documenti\Tetris-master\Tetris\bin\Debug\Tetris.pdb
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.campoGioco.resources
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.CreateGame.resources
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.nextBlock.resources
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.Square.resources
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.StartGame.resources
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.game.resources
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.SelectMode.resources
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.exe
+Z:\Documenti\Tetris-master\Tetris\obj\Debug\Tetris.pdb
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\bin\Debug\Tetris.exe.config
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\bin\Debug\Tetris.exe
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\bin\Debug\Tetris.pdb
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.campoGioco.resources
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.CreateGame.resources
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.nextBlock.resources
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.Square.resources
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.StartGame.resources
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.game.resources
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.SelectMode.resources
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.exe
+C:\SCSV\Scuola\2018-2019\Tecnologie\Practice\Tetris-master\Tetris\obj\Debug\Tetris.pdb
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\bin\Debug\Tetris.exe.config
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\bin\Debug\Tetris.exe
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\bin\Debug\Tetris.pdb
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.campoGioco.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.CreateGame.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.nextBlock.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.Square.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.StartGame.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.game.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.SelectMode.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.exe
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Leonardo.Vaia\Desktop\Tetris-master\Tetris\obj\Debug\Tetris.pdb
+E:\Tetris-master\Tetris\bin\Debug\Tetris.exe.config
+E:\Tetris-master\Tetris\bin\Debug\Tetris.exe
+E:\Tetris-master\Tetris\bin\Debug\Tetris.pdb
+E:\Tetris-master\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+E:\Tetris-master\Tetris\obj\Debug\Tetris.campoGioco.resources
+E:\Tetris-master\Tetris\obj\Debug\Tetris.CreateGame.resources
+E:\Tetris-master\Tetris\obj\Debug\Tetris.nextBlock.resources
+E:\Tetris-master\Tetris\obj\Debug\Tetris.Square.resources
+E:\Tetris-master\Tetris\obj\Debug\Tetris.StartGame.resources
+E:\Tetris-master\Tetris\obj\Debug\Tetris.game.resources
+E:\Tetris-master\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+E:\Tetris-master\Tetris\obj\Debug\Tetris.SelectMode.resources
+E:\Tetris-master\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+E:\Tetris-master\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+E:\Tetris-master\Tetris\obj\Debug\Tetris.exe
+E:\Tetris-master\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.campoGioco.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.CreateGame.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.nextBlock.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Square.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.StartGame.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.game.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.SelectMode.resources
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.exe
+C:\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.pdb
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe.config
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.campoGioco.resources
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.CreateGame.resources
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.nextBlock.resources
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Square.resources
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.StartGame.resources
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.game.resources
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.SelectMode.resources
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.exe
+\\DESKTOP-QG9D06E\Users\Leonardo Vaia\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.pdb
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.campoGioco.resources
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.CreateGame.resources
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.nextBlock.resources
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Square.resources
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.StartGame.resources
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.game.resources
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.SelectMode.resources
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.exe
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.pdb
+C:\Users\SebastianCavada\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.pdb
+E:\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe.config
+E:\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe
+E:\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.pdb
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.campoGioco.resources
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.CreateGame.resources
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.nextBlock.resources
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Square.resources
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.StartGame.resources
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.game.resources
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.SelectMode.resources
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.exe
+E:\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.pdb
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe.config
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.pdb
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.campoGioco.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.CreateGame.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.nextBlock.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Square.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.StartGame.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.game.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.SelectMode.resources
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.exe
+\\Repo\Studenti$\Informatica\SezAi\5Ai\Sebastian.Cavada\Desktop\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.exe
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.campoGioco.resources
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.CreateGame.resources
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.nextBlock.resources
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Square.resources
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.StartGame.resources
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.game.resources
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.SelectMode.resources
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.exe
+C:\Users\Leonardo Vaia\Documents\Tetris-master!!!!!\Tetris\obj\Debug\Tetris.pdb

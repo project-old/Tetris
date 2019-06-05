@@ -10,13 +10,15 @@ namespace Tetris
     {
         public string name;
         public string ip;
-        public string modalità;
+        public string port;
+        public string modalità;        
 
-        public tipoGiocatore(string _name, string _ip, string _modalità)
+        public tipoGiocatore(string _name, string _ip, string _port, string _modalità)
         {
             this.name = _name;
             this.ip = _ip;
             this.modalità = _modalità;
+            this.port = _port;
         }
     }
 }

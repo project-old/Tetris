@@ -38,7 +38,7 @@ namespace Tetris
         {
             if (textBox1.Text != "")
             {
-                SelectMode schermata2 = new SelectMode(textBox1.Text);
+                SelectMode schermata2 = new SelectMode();
                 schermata2.ShowDialog();
                 this.Close();
             }
