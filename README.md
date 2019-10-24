@@ -9,4 +9,5 @@ Just clone this repository in your folder and click start. That's the trick
 
 ## Authors
 
-Don't follow your dreams, follow me on instagram https://www.instagram.com/sebo_the_tramp/?hl=en and not Leo
+Don't follow your dreams, follow me on instagram https://www.instagram.com/sebo_the_tramp/
+If you want follow him too XD https://www.instagram.com/leo_vaia00/
